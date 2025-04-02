@@ -13,15 +13,15 @@ resource "azurerm_resource_group" "k8s_rg" {
   location = "East US"
 }
 
-resource "azuread_application" "app_app" {
+resource "azuread_application_registration" "app_app" {
   display_name = "app-app"
 }
 
-resource "azuread_application" "shared_app" {
+resource "azuread_application_registration" "shared_app" {
   display_name = "shared-app"
 }
 
-resource "azuread_application" "k8s_app" {
+resource "azuread_application_registration" "k8s_app" {
   display_name = "k8s-app"
 }
 

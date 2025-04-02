@@ -6,7 +6,7 @@
 5) How can this codebase be modified to be used for different projects/teams?
 
 
-Process:
+Process: <br>
 10 min to look at code <br>
 Come back and ask any questions you have <br>
 5 min to look at code and prepare answers <br>

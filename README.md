@@ -7,6 +7,7 @@
 
 
 Process:
-10 min to look at code
-Come back and ask any questions you have
-5 min to look at code and prepare answers
+10 min to look at code <br>
+Come back and ask any questions you have <br>
+5 min to look at code and prepare answers <br>
+ 
